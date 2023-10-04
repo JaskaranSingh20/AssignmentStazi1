@@ -29,7 +29,9 @@ body {
   box-sizing: border-box;
   min-width: 320px;
   min-height: 100vh;
-  background-image: linear-gradient( 95.2deg, rgb(239, 252, 253) 26.8%, rgb(218, 217, 254) 64% );
+  background-color: rgb(229 232 240);
+  /* background-color: #edf0f6; */
+  /* background-image: linear-gradient( 95.2deg, rgb(239, 252, 253) 26.8%, rgb(218, 217, 254) 64% ); */
 }
 
 h1 {
@@ -44,7 +46,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  /* background-color: #1a1a1a; */
   color: white;
   cursor: pointer;
   transition: border-color 0.25s;
